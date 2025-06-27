@@ -1,5 +1,5 @@
 function getComputerChoice() {
-  randomNumber = Math.random();
+  const randomNumber = Math.random();
   console.log(randomNumber);
   if (randomNumber < 1 / 3) {
     return 'rock';
@@ -12,3 +12,8 @@ function getComputerChoice() {
   }
 }
 
+function getHumanChoice() {
+  return prompt("Enter rock, paper or scissors: ");
+}
+
+console.log(getHumanChoice());

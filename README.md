@@ -7,3 +7,4 @@ Create a Rock Paper Scissors Game
           math.random < 2/3, then return 'paper
           else return 'scissors
 |||||||    
+2. Get the user input, aka rock,paper or scissors
