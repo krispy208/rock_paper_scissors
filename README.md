@@ -10,3 +10,8 @@ Create a Rock Paper Scissors Game
 2. Get the user input, aka rock,paper or scissors
 
 3. Store computer and human scores in two variables.
+
+4. A function playRound, which updates scores and returns the result of the game
+
+5. A function playGame, which boots the game up.
+  //Note this function only plays the game 5 times, can be further modified to play infintely, maybe with eventListeners 
