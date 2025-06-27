@@ -8,3 +8,5 @@ Create a Rock Paper Scissors Game
           else return 'scissors
 |||||||    
 2. Get the user input, aka rock,paper or scissors
+
+3. Store computer and human scores in two variables.
